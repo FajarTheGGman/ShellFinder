@@ -12,5 +12,5 @@
 </pre>
 
 <pre>
-Note : This program not work 100% becouse this depends on wordlist
+Note : This program not work 100% because this depends on wordlist
 </pre>
