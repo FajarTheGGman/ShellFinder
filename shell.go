@@ -1,3 +1,5 @@
+// Please don't steal or recode my program
+// Copyright© 2019 by Fajar Firdaus
 package main
 
 import (
