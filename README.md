@@ -1,7 +1,7 @@
 # ShellFinder
 #Just a simple program to search shell 
 
-![alt text](https://github.com/FajarTheGGman/ShellFinder/blob/master/img./56907706_2095391064085815_4803491329357119488_n.jpg)
+![alt text](https://github.com/FajarTheGGman/ShellFinder/blob/master/img./pict.jpg)
 
 # Tutorial Install
 <pre>
