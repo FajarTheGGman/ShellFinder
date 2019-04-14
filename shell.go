@@ -9,7 +9,9 @@ import (
 )
 
 func main() {  
-fmt.Println("(づ｡◕‿‿◕｡)づ\n")
+fmt.Println("╔═╗┬ ┬┌─┐┬  ┬    ╔═╗┬┌┐┌┌┬┐┌─┐┬─┐")
+fmt.Println("╚═╗├─┤├┤ │  │    ╠╣ ││││ ││├┤ ├┬┘")
+fmt.Println("╚═╝┴ ┴└─┘┴─┘┴─┘  ╚  ┴┘└┘─┴┘└─┘┴└─\n")
 fmt.Println("[=================]")
 fmt.Println("Coder : Fajar Firdaus")
 fmt.Println("Fb : Fajar Firdaus")
