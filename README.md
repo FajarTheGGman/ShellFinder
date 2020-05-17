@@ -14,3 +14,6 @@
 <pre>
 Note : This program not work 100% because this depends on wordlist
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
